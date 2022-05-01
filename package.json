@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "repository": {
 	"url": "git://github.com/Moses-Ian/github-pkg-demo.git"
-  }
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
